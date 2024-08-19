@@ -1,1 +1,1 @@
-from taheed.wsgi import application
+from taheed_brokers.wsgi import application
